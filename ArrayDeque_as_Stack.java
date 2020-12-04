@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class ArrayDeque_as_Stack {
+public class ArrayDeque_as_Stack
+{
       public static void main(String args[])
       {
        ArrayDeque<Integer> ad=new ArrayDeque<Integer>();
