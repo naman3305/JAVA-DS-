@@ -8,7 +8,8 @@ class Node9
       key=d;
 }
 }
-public class BalanceTree {
+public class BalanceTree
+{
     static int isBal(Node9 root)
     {
         if(root==null)return 0;
