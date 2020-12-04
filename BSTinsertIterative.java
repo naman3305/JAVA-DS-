@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class BSTinsertIterative {
+public class BSTinsertIterative 
+{
     static Node insert(Node root,int x)
     {
         Node temp=new Node(x);
