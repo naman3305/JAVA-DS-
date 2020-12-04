@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class BSTfloor {
+public class BSTfloor 
+{
     static Node floor(Node root,int x)
     {
         Node res=null;
