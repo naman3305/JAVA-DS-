@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class ArrayDeque_as_Deque {
+public class ArrayDeque_as_Deque
+{
     public static void main(String args[])
     {
         ArrayDeque<Integer> ad=new ArrayDeque<Integer>();
