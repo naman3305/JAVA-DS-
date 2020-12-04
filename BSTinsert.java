@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class BSTinsert {
+public class BSTinsert
+{
     static Node insert(Node root,int x)
     {
         if(root==null)
