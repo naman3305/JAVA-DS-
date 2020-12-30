@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class ExtractMin {
+public class ExtractMin
+{
      int Heap[];
     int size,capacity;
     public ExtractMin(int maxsize) 
