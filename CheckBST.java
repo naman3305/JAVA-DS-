@@ -20,7 +20,8 @@ public class CheckBST
   
     /* returns true if given search tree is binary 
      search tree (efficient version) */
-    boolean isBST()  { 
+    boolean isBST()  
+    { 
         return isBSTUtil(root, Integer.MIN_VALUE, 
                                Integer.MAX_VALUE); 
     } 
