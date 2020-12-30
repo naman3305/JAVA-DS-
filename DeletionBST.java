@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class DeletionBST {
+public class DeletionBST
+{
   static Node delNode(Node root,int x)
   {
       if(root==null)
