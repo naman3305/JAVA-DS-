@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class CountNodes {
+public class CountNodes
+{
     static int countNode(Node root)
     {
         int lh=0,rh=0;
