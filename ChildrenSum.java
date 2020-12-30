@@ -9,7 +9,8 @@ class Node8
       key=d;
 }
 }
-public class ChildrenSum {
+public class ChildrenSum
+{
    static boolean isSum(Node8 root)
     {
         if(root==null)
