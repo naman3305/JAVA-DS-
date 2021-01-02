@@ -2,7 +2,8 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
  
-class Node16 {
+class Node16
+{
  
     int data;
     Node16 left, right;
