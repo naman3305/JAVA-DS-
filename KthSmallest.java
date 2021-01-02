@@ -1,6 +1,7 @@
 import java.io.*;
 // A BST node
-class Node14 {
+class Node14 
+{
     int data;
     Node14 left, right;
     Node14(int x)
