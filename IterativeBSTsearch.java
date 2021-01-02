@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class IterativeBSTsearch {
+public class IterativeBSTsearch
+{
    static boolean search(Node root,int x)
    {
     while(root!=null)
