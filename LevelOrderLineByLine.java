@@ -10,7 +10,8 @@ class Node4
       key=d;
 }
 }
-public class LevelOrderLineByLine {
+public class LevelOrderLineByLine 
+{
     static void printlevel(Node4 root)
     {
         if(root==null)
