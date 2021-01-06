@@ -9,7 +9,8 @@ class Node7
       key=d;
 }
 }
-public class LeftViewBinaryTree {
+public class LeftViewBinaryTree 
+{
    static int maxLevel=0;
   static  void printLeft(Node7 root,int level)
     {
