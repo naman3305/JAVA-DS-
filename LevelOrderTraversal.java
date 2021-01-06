@@ -10,7 +10,8 @@ class Node3
      key=d;
  }    
 }
-public class LevelOrderTraversal {
+public class LevelOrderTraversal 
+{
     static void printlevel(Node3 root)
     {
         if(root==null)
