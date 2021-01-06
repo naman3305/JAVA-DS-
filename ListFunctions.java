@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class ListFunctions {
+public class ListFunctions 
+{
       public static void main(String args[])
       {
        Scanner s=new Scanner(System.in);
