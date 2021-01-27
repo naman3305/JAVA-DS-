@@ -1,6 +1,7 @@
 import java.util.LinkedList;
 import java.util.*;
-public class Max_insubarray_size_k {
+public class Max_insubarray_size_k
+{
     void printKMax(int arr[],int k)//we made a queue of size k and logic is we will take k elements at a time and will find max out of it
     {                               //i queue we are storing indexes only
         int n=arr.length;
