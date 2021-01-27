@@ -11,7 +11,8 @@ class Node6
       key=d;
 }
 }
-public class MaxBinaryTree {
+public class MaxBinaryTree
+{
     static int getMax(Node6 root)
     {
         if(root==null)
