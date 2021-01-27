@@ -1,7 +1,8 @@
 import java.util.*;
 import java.util.ArrayList;
 
-public class LowestCommonAncestor {
+public class LowestCommonAncestor
+{
    static boolean findPath(Node root,ArrayList<Node> p,int n)
     {
         if(root==null)
