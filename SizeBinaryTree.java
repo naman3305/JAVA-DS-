@@ -9,7 +9,8 @@ class Node5
       key=d;
 }
 }
-public class SizeBinaryTree {
+public class SizeBinaryTree
+{
     static int getSize(Node5 root)
     {
         if(root==null)
