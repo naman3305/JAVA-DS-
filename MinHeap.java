@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class MinHeap { 
+public class MinHeap 
+{ 
     private int[] Heap; 
     private int size; 
     private int maxsize; 
