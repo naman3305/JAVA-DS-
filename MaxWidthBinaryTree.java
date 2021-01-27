@@ -9,7 +9,8 @@ class Node10{
         key=d;
     }
 }
-public class MaxWidthBinaryTree {
+public class MaxWidthBinaryTree 
+{
     static int  maxWidth(Node10 root)
     {
         if(root==null)return 0;
