@@ -9,7 +9,8 @@ class Node2
      key=d;
  }    
 }
-public class NodeDistanceK {
+public class NodeDistanceK 
+{
     static void print(Node2 root,int k)
     {
         if(root==null)
