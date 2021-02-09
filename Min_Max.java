@@ -1,7 +1,8 @@
 import java.util.LinkedList;
 import java.util.*;
 
-public class Min_Max {
+public class Min_Max
+{
  Deque<Integer> dq;
 Min_Max()
 {
