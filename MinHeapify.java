@@ -1,6 +1,7 @@
 import java.util.*;
 
-public class MinHeapify {
+public class MinHeapify
+{
     int arr[];
     int size,capacity;
     public MinHeapify(int maxsize) 
